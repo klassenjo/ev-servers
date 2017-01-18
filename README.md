@@ -12,4 +12,4 @@ the window will be empty.
 If I were going to revisit this and improve it, I'd use more modern JS, turn that plain text server list into a proper 
 database and improve my jswindows file, which I used to manage servers without leaving the app.
 
-This was hosted on a server running WAMP to make it accessible to anyone on the appropriate intranet.
+This was hosted on a server running [WAMP](http://www.wampserver.com/en/) to make it accessible to anyone on the appropriate intranet.
